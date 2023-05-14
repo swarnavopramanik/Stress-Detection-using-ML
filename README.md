@@ -1,5 +1,3 @@
-# Stress-Detection-using-ML
-
 # Stress Detection with Machine Learning
 
 Stress, anxiety, and depression are threatening the mental health of people. Every person has a reason for having a stressful life. People often share their feelings on social media platforms like on Instagram in the form of posts and stories, and on Reddit in the form of asking for suggestions about their life on subreddits. In the past few years, many content creators have come forward to create content to help people with their mental health. Many organizations can use stress detection to find which social media users are stressed to help them quickly. So if you want to learn how to use machine learning to detect stress on social media posts, this article is for you. In this article, I will take you through the task of stress detection with machine learning using Python.
