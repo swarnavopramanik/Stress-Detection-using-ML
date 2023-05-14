@@ -13,9 +13,11 @@ In today's competitive and rival world, stress has emerged to be an integral par
 
 
 # Output : 👇
-![Screenshot (355)](https://github.com/swarnavopramanik/Stress-Detection-using-ML/assets/105142693/eb725dc9-a2a1-4c96-a4b8-a15360c985fe)
-![Screenshot (356)](https://github.com/swarnavopramanik/Stress-Detection-using-ML/assets/105142693/9eab8197-8f2a-4a59-894f-ceeac63d7660)
 ![Screenshot (359)](https://github.com/swarnavopramanik/Stress-Detection-using-ML/assets/105142693/b9c60457-80f2-4c36-a632-44af03f6ffbf)
+
+![Screenshot (355)](https://github.com/swarnavopramanik/Stress-Detection-using-ML/assets/105142693/eb725dc9-a2a1-4c96-a4b8-a15360c985fe)
+
+![Screenshot (356)](https://github.com/swarnavopramanik/Stress-Detection-using-ML/assets/105142693/9eab8197-8f2a-4a59-894f-ceeac63d7660)
 
 
 # How can machine learning be used in stress management: A systematic literature review of applications in workplaces and education  : 👇
